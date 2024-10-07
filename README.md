@@ -30,7 +30,7 @@ Bu uygulama, Windows'a özgü olan aşağıdaki API çağrılarını kullanır:
 
 1. Projeyi yerel makinenize klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adiniz/numlock-kontrol.git
+   git clone https://github.com/bsekercioglu/Console_NumLck.git
    ```
 
 2. Projeyi Visual Studio veya tercih ettiğiniz bir C# IDE'sinde açın.
